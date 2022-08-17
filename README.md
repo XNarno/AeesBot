@@ -21,7 +21,7 @@ Ce bot est destiné à un usage unique, il n'est pas encore prêt à être dépl
 
 Des tests doivent être effectué et des librairies changées !
 
-###Notes
+### Notes
 
 Certaines librairies ne sont plus trouvables, d'ou le problème de mettre à jour le bot !
 
